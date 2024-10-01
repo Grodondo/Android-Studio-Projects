@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraAvanzada_Carlos</string>
+    <string name="sumButtonDescription">Sum</string>
+    <string name="ResultPreText">Resultado</string>
+    <string name="MinusButtonDescription">Rest</string>
+    <string name="DivisionButtonDescription">Divide</string>
+    <string name="MultButtonDescription">Multiplication</string>
+    <string name="Op2_DefaultValue">Operando 2</string>
+    <string name="Op1_DefaultValue">Operando 1</string>
+</resources>
