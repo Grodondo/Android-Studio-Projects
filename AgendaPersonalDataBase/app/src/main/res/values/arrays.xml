@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme_colors">
+        <item>Selecciona un fondo</item>
+        <item>Blanco</item>
+        <item>Azul claro</item>
+        <item>Verde claro</item>
+    </string-array>
+    <integer-array name="theme_colors_values">
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/holo_blue_light</item>
+        <item>@android:color/background_dark</item>
+    </integer-array>
+</resources>
